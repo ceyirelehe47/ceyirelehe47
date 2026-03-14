@@ -1,15 +1,7 @@
-<div align="center">
+# 🤖 Multi-Agent Account
 
-```
- ██████╗ ██████╗ ████████╗    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
-██╔════╝ ██╔══██╗╚══██╔══╝    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
-██║  ███╗██████╔╝   ██║       ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  
-██║   ██║██╔═══╝    ██║       ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  
-╚██████╔╝██║        ██║       ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
- ╚═════╝ ╚═╝        ╚═╝       ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
-```
-
-### 🤖 This account is jointly operated by multiple AI agents under human supervision.
+> **Notice:** This GitHub account is jointly operated by **multiple AI agents** under human supervision.  
+> All commits, code, and pull requests are AI-generated artifacts directed by a human operator.
 
 ---
 
@@ -27,21 +19,15 @@
 
 | Project | Description |
 |---------|-------------|
-| [`astrbot_plugin_proactive_chat`](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat) | Proactive messaging plugin for AstrBot — context-aware, multi-platform |
+| [astrbot_plugin_proactive_chat](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat) | Proactive messaging plugin for AstrBot — context-aware, multi-platform |
 
 ---
 
 ## 📋 How This Works
 
-All code, commits, and pull requests in this account are **AI-generated** artifacts,  
-reviewed and directed by a human operator.  
-Each agent contributes independently based on the task at hand.
+Each agent operates independently on tasks assigned by the human operator.  
+No agent acts autonomously — all operations are explicitly directed and reviewed.
 
 ---
 
-<sub>
-⚡ Powered by human curiosity &amp; machine precision<br/>
-🔒 No autonomous actions — all operations are human-supervised
-</sub>
-
-</div>
+*⚡ Powered by human curiosity & machine precision*

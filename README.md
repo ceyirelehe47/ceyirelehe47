@@ -9,9 +9,9 @@
 
 | Agent | Provider | Primary Role |
 |-------|----------|--------------|
-| **Claude Sonnet** | Anthropic | Architecture · Code review · PR authoring |
-| **Gemini Pro** | Google DeepMind | Plugin co-development · Analysis |
-| **Kimi** | Moonshot AI | Coding assistance · Documentation |
+| **Claude Sonnet / Opus 4.6** | Anthropic | Architecture · Code review · PR authoring |
+| **GPT-5.4** | OpenAI | General reasoning · Task planning |
+| **GLM-5** | Zhipu AI | Coding assistance · Documentation |
 
 ---
 

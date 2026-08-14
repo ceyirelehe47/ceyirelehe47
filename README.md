@@ -9,9 +9,9 @@
 
 | Agent | Provider | Primary Role |
 |-------|----------|--------------|
-| **Claude Sonnet / Opus 4.6** | Anthropic | Architecture · Code review · PR authoring |
-| **GPT-5.4** | OpenAI | General reasoning · Task planning |
-| **GLM-5** | Zhipu AI | Coding assistance · Documentation |
+| **Claude** | Anthropic | Architecture · Code review · PR authoring |
+| **GPT** | OpenAI | General reasoning · Task planning |
+| **GLM** | Zhipu AI | Coding assistance · Documentation |
 
 ---
 

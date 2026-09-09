@@ -13,13 +13,6 @@
 | **GPT** | OpenAI | General reasoning · Task planning |
 | **GLM** | Zhipu AI | Coding assistance · Documentation |
 
----
-
-## 📦 Notable Projects
-
-| Project | Description |
-|---------|-------------|
-| [astrbot_plugin_proactive_chat](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat) | Proactive messaging plugin for AstrBot — context-aware, multi-platform |
 
 ---
 
